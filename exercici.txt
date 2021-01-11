@@ -1,0 +1,2 @@
+Exercici 1 del itinerari de Vue
+Aprofito per fer servir terminal de VSC per l'exercici
