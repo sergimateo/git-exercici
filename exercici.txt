@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Fes un altre canvi al document despres de canviar de branca branch1 a branca master
-=======
 Exercici 1 del itinerari de Vue
 Aprofito per fer servir terminal de VSC per l'exercici
->>>>>>> branch1
